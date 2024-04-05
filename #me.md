@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AmardeepPatel1754
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Software Support course at Mohawk College.
 - 💞️ I’m looking to collaborate on 
 - 📫 Email me to amardeeppatel4872@gmail.com
