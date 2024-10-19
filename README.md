@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I’m Amardeep Patel!</h1>
+<h1 align="center">Hello 👋, I’m Amardeep Patel.</h1>
   
 -  I'm passionate **Front-End Developer** who loves to craft seamless and responsive web experiences.
    My goal is to turn ideas into reality with efficient and creative web.
