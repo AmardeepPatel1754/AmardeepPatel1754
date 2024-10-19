@@ -12,8 +12,7 @@
 - 💼 I’m actively seeking opportuniities to contribute my **front-end expertise** and collaborate on projects where
       I can **make an impact**. If you're looking for a motivated and creative developer, let's connect.
   
-- 📫 You can find me on [LinkedIn](www.linkedin.com/in/amardeep-patel-a3876b2aa). I'd love to connect and discuss
-      opportunities or interesting tech trends.
+- 📫 You can reach me on [aspatel0504@gmail.com](aspatel0504@gmail.com).
   
 - ⚡ Fun fact: When I'm not coding, I'm usually exploring new tech, watching the latest movies and shows,
       or brainstorming practical solutions to real-world problems.
